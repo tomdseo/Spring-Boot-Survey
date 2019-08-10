@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+body {
+	padding: 50px;
+}
+
+.border-default {
+	border: 2px solid black;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.max-width {
+	max-width: 350px;
+}
+
+.padding-form {
+	padding: 10px;
+}
+
+#textarea-form {
+	resize: none;
+	overflow-y: scroll;
+}
